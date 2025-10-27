@@ -385,6 +385,15 @@ export default function Home() {
                             >
                                 Privacy Policy
                             </a>
+                            <span className="hidden sm:inline">•</span>
+                            <a
+                                href="https://pingpong-games.github.io/"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                className="text-primary hover:text-primary-dark transition-colors cursor-pointer"
+                            >
+                                PingPong Games Studio
+                            </a>
                         </div>
                     </div>
                 </div>
